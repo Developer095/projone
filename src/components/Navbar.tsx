@@ -10,7 +10,7 @@ const Navbar = () => {
     >
       <div
         id="nb-elements"
-        className="flex flex-row gap-72 justify-center items-center opacity-100"
+        className="flex flex-row gap-72 justify-center items-center backdrop-blur-md opacity-100"
       >
         <div className="flex justify-center items-center">
           <Image src={logoPic} className="w-[150px] h-[35px]" alt="LOGO" />
@@ -30,7 +30,7 @@ const Navbar = () => {
         </div>
 
         <div id="nb-Btn" className="flex  justify-center align-middle ">
-          <button className=" bg-[#ffffff] border border-[#16205f] text-[#16205f] rounded-md py-3 px-3.5 border-2 font-semibold text-xs color-[#ffffff]">
+          <button className=" bg-[#ffffff]  border-[#16205f] text-[#16205f] rounded-md py-3 px-3.5 border-2 font-semibold text-xs color-[#ffffff]">
             CONTACT US
           </button>
         </div>
