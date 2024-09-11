@@ -5,7 +5,7 @@ const Hero = () => {
     <div>
       <div
         id="ele-1"
-        className="px-5 pt-24 flex flex-col gap-4 justify-center items-center text-5xl font-semibold mb-6"
+        className="flex flex-col gap-4 justify-center items-center font-semibold sm:text-3xl mb-4 px-3 pt-1  md:text-5xl mb-6 px-5 pt-24 "
       >
         <span className="text-[#16205f]">Build seamless UIs and reliable</span>
         <span className="text-[#16205f]">
@@ -18,7 +18,7 @@ const Hero = () => {
         id="ele-1 pt-2"
         className="flex justify-center items-center font-normal"
       >
-        <p className="mb-8 mt-4 max-w-[500px] text-center md:mt-8 text-[#16205f]">
+        <p className="mb-4 mt-4 max-w-[500px] text-center md:mt-4 mb-4 text-[#16205f]">
           Manage every aspect of your project with our full stack development
           expertise.
         </p>

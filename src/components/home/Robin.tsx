@@ -9,7 +9,7 @@ const Robin = () => {
       >
         <span
           id="ele-2 pt-1"
-          className="text-5xl font-semibold text-[#16205f] max-w-[700px] text-center"
+          className="text-3xl md:text-5xl font-semibold text-[#16205f] max-w-[700px] text-center"
         >
           Our Full Stack Development services
         </span>
