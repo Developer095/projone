@@ -38,7 +38,9 @@ const Ironman = () => {
               they design and develop applications catering to both customer and
               enterprise requirements.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">01</span>
+            <span className="relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              01
+            </span>
           </div>
         </div>
 
@@ -56,7 +58,9 @@ const Ironman = () => {
               debugging, and performance optimization for smoother market
               deployment.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">02</span>
+            <span className="mt-7 relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              02
+            </span>
           </div>
         </div>
 
@@ -73,7 +77,9 @@ const Ironman = () => {
               seamless integration of front-end and back-end, enhancing program
               structure visibility, security, and overall performance.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">03</span>
+            <span className="mt-7 relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              03
+            </span>
           </div>
         </div>
 
@@ -91,7 +97,9 @@ const Ironman = () => {
               full-stack developers always choose the right development
               methodologies for you.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">04</span>
+            <span className="mt-7 relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              04
+            </span>
           </div>
         </div>
 
@@ -109,7 +117,9 @@ const Ironman = () => {
               resolution, and high-quality performance for an optimal user
               experience.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">05</span>
+            <span className="mt-3 relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              05
+            </span>
           </div>
         </div>
 
@@ -127,7 +137,9 @@ const Ironman = () => {
               optimize application efficiency using non-relational data
               concepts.
             </span>
-            <span className="pl-64 text-[#16205f] font-bold text-4xl">06</span>
+            <span className="mt-7 relative bottom-1 flex justify-end text-[#16205f] font-bold text-4xl">
+              06
+            </span>
           </div>
         </div>
       </div>
